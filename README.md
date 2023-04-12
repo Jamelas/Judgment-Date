@@ -2,6 +2,8 @@
 
 This program was created as part of an assignment for a second year Computer Science paper at Massey University. This assignment follows on from [the first assignment](https://github.com/Jamelas/Change-Date) that was written using Haskell.
 
+This assignment was completed 16 December 2022.
+
 ## Requirements
 
 1. Implement function from ymd and ymd, which convert between the year/month/day format and integer
